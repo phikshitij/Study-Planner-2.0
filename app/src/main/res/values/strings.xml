@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Study Planner</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    
+    <!-- Performance Levels -->
+    <string-array name="performance_levels">
+        <item>Good</item>
+        <item>Average</item>
+        <item>Below Average</item>
+    </string-array>
+
+    <!-- Navigation Menu Items -->
+    <string name="nav_profile">Profile</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_logout">Logout</string>
+
+    <!-- Main Menu Items -->
+    <string name="menu_timetable">Timetable</string>
+    <string name="menu_subjects">Subjects</string>
+    <string name="menu_resources">Resources</string>
+    <string name="menu_quiz">Quiz</string>
+</resources>

@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "com.example.studyplanner.app-mergeDebugResources-45:/layout/activity_subject_videos.xml",
+        "source": "com.example.studyplanner.app-main-48:/layout/activity_subject_videos.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-mergeDebugResources-45:/layout/nav_header.xml",
+        "source": "com.example.studyplanner.app-main-48:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-mergeDebugResources-45:/layout/activity_chat.xml",
+        "source": "com.example.studyplanner.app-main-48:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-mergeDebugResources-45:/layout/activity_timetable.xml",
+        "source": "com.example.studyplanner.app-main-48:/layout/activity_timetable.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-mergeDebugResources-45:/layout/activity_video_resources.xml",
+        "source": "com.example.studyplanner.app-main-48:/layout/activity_video_resources.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-mergeDebugResources-45:/layout/activity_quiz.xml",
+        "source": "com.example.studyplanner.app-main-48:/layout/activity_quiz.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-mergeDebugResources-45:/layout/activity_timer.xml",
+        "source": "com.example.studyplanner.app-main-48:/layout/activity_timer.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-mergeDebugResources-45:/layout/activity_main.xml",
+        "source": "com.example.studyplanner.app-main-48:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-mergeDebugResources-45:/layout/activity_settings.xml",
+        "source": "com.example.studyplanner.app-main-48:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-mergeDebugResources-45:/layout/activity_resources.xml",
+        "source": "com.example.studyplanner.app-main-48:/layout/activity_resources.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-mergeDebugResources-45:/layout/activity_profile.xml",
+        "source": "com.example.studyplanner.app-main-48:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-mergeDebugResources-45:/layout/item_chat_message.xml",
+        "source": "com.example.studyplanner.app-main-48:/layout/item_chat_message.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-mergeDebugResources-45:/layout/activity_register.xml",
+        "source": "com.example.studyplanner.app-main-48:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-mergeDebugResources-45:/layout/activity_login.xml",
+        "source": "com.example.studyplanner.app-main-48:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-mergeDebugResources-45:/layout/item_message.xml",
+        "source": "com.example.studyplanner.app-main-48:/layout/item_message.xml"
+    }
+]

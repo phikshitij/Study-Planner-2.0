@@ -1,0 +1,6 @@
+com.example.studyplanner.test.app-jetified-core-1.5.0-0 C:\Users\kshit\.gradle\caches\transforms-4\c141b9f66d499735457490b06de4cf69\transformed\jetified-core-1.5.0\res
+com.example.studyplanner.test.app-jetified-annotation-experimental-1.3.0-1 C:\Users\kshit\.gradle\caches\transforms-4\f51725542838f3685ce82e4535d19587\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.studyplanner.test.app-androidTest-2 C:\Users\kshit\OneDrive\Desktop\Trial\app\build\generated\res\resValues\androidTest\debug
+com.example.studyplanner.test.app-mergeDebugAndroidTestResources-3 C:\Users\kshit\OneDrive\Desktop\Trial\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.studyplanner.test.app-mergeDebugAndroidTestResources-4 C:\Users\kshit\OneDrive\Desktop\Trial\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.studyplanner.test.app-debugAndroidTest-5 C:\Users\kshit\OneDrive\Desktop\Trial\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

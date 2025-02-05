@@ -1,0 +1,3 @@
+com.example.studyplanner.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
