@@ -12,6 +12,10 @@
         "source": "com.example.studyplanner.app-main-48:/layout/activity_chat.xml"
     },
     {
+        "merged": "com.example.studyplanner.app-mergeDebugResources-45:/layout/activity_quiz_subjects.xml",
+        "source": "com.example.studyplanner.app-main-48:/layout/activity_quiz_subjects.xml"
+    },
+    {
         "merged": "com.example.studyplanner.app-mergeDebugResources-45:/layout/activity_timetable.xml",
         "source": "com.example.studyplanner.app-main-48:/layout/activity_timetable.xml"
     },
@@ -26,6 +30,10 @@
     {
         "merged": "com.example.studyplanner.app-mergeDebugResources-45:/layout/activity_timer.xml",
         "source": "com.example.studyplanner.app-main-48:/layout/activity_timer.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-mergeDebugResources-45:/layout/custom_toast.xml",
+        "source": "com.example.studyplanner.app-main-48:/layout/custom_toast.xml"
     },
     {
         "merged": "com.example.studyplanner.app-mergeDebugResources-45:/layout/activity_main.xml",

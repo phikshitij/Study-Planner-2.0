@@ -28,6 +28,8 @@ anim design_bottom_sheet_slide_out
 anim design_snackbar_in
 anim design_snackbar_out
 anim fragment_fast_out_extra_slow_in
+anim item_animation_click
+anim item_animation_fall_down
 anim linear_indeterminate_line1_head_interpolator
 anim linear_indeterminate_line1_tail_interpolator
 anim linear_indeterminate_line2_head_interpolator
@@ -45,6 +47,10 @@ anim nav_default_enter_anim
 anim nav_default_exit_anim
 anim nav_default_pop_enter_anim
 anim nav_default_pop_exit_anim
+anim slide_in_left
+anim slide_in_right
+anim slide_out_left
+anim slide_out_right
 animator design_appbar_state_list_animator
 animator design_fab_hide_motion_spec
 animator design_fab_show_motion_spec
@@ -2088,6 +2094,11 @@ color primary_text_default_material_dark
 color primary_text_default_material_light
 color primary_text_disabled_material_dark
 color primary_text_disabled_material_light
+color quiz_data_warehouse
+color quiz_internet
+color quiz_networks
+color quiz_software_eng
+color quiz_theoretical
 color ripple_material_dark
 color ripple_material_light
 color secondary_text_default_material_dark
@@ -2971,11 +2982,17 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable card_ripple
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable gradient_blue
+drawable gradient_green
+drawable gradient_orange
+drawable gradient_purple
+drawable gradient_red
 drawable ic_arrow_back_black_24
 drawable ic_back
 drawable ic_call_answer
@@ -3080,6 +3097,7 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable test_level_drawable
+drawable toast_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable user_message_background
@@ -3188,6 +3206,11 @@ id buttonPanel
 id cache_measures
 id callMeasure
 id cancel_button
+id cardComputerNetworks
+id cardDataWarehouse
+id cardInternetProgramming
+id cardSoftwareEngineering
+id cardTheoretical
 id carryVelocity
 id center
 id centerCrop
@@ -3228,6 +3251,7 @@ id cradle
 id currentState
 id custom
 id customPanel
+id custom_toast_layout
 id cut
 id dataWarehouseCard
 id date_picker_actions
@@ -3606,6 +3630,7 @@ id timetableCard
 id title
 id titleDividerNoCustom
 id title_template
+id toast_text
 id toggle
 id toolbar
 id top
@@ -3763,6 +3788,7 @@ layout activity_login
 layout activity_main
 layout activity_profile
 layout activity_quiz
+layout activity_quiz_subjects
 layout activity_register
 layout activity_resources
 layout activity_settings
@@ -3771,6 +3797,7 @@ layout activity_timer
 layout activity_timetable
 layout activity_video_resources
 layout custom_dialog
+layout custom_toast
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
 layout design_layout_snackbar

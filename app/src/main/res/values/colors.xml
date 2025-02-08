@@ -8,4 +8,11 @@
     <color name="gray">#757575</color>
     <color name="light_gray">#EEEEEE</color>
     <color name="ic_launcher_background">#FFFFFF</color>
+    
+    <!-- Quiz Card Colors -->
+    <color name="quiz_software_eng">#4CAF50</color>
+    <color name="quiz_networks">#F44336</color>
+    <color name="quiz_theoretical">#9C27B0</color>
+    <color name="quiz_internet">#FF9800</color>
+    <color name="quiz_data_warehouse">#3F51B5</color>
 </resources>

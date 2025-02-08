@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\kshit\OneDrive\Desktop\Trial\app\src\main\AndroidManifest.xml:2:1-94:12
-INJECTED from C:\Users\kshit\OneDrive\Desktop\Trial\app\src\main\AndroidManifest.xml:2:1-94:12
-INJECTED from C:\Users\kshit\OneDrive\Desktop\Trial\app\src\main\AndroidManifest.xml:2:1-94:12
-INJECTED from C:\Users\kshit\OneDrive\Desktop\Trial\app\src\main\AndroidManifest.xml:2:1-94:12
+ADDED from C:\Users\kshit\OneDrive\Desktop\Trial\app\src\main\AndroidManifest.xml:2:1-99:12
+INJECTED from C:\Users\kshit\OneDrive\Desktop\Trial\app\src\main\AndroidManifest.xml:2:1-99:12
+INJECTED from C:\Users\kshit\OneDrive\Desktop\Trial\app\src\main\AndroidManifest.xml:2:1-99:12
+INJECTED from C:\Users\kshit\OneDrive\Desktop\Trial\app\src\main\AndroidManifest.xml:2:1-99:12
 MERGED from [androidx.databinding:viewbinding:8.6.0] C:\Users\kshit\.gradle\caches\transforms-4\9a02b5dd2d236e46fa6a2155ce742bbd\transformed\jetified-viewbinding-8.6.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.navigation:navigation-common:2.7.5] C:\Users\kshit\.gradle\caches\transforms-4\46caaff066d487ff9fa544f3eb2256eb\transformed\navigation-common-2.7.5\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-runtime:2.7.5] C:\Users\kshit\.gradle\caches\transforms-4\b60ffd91ab6a66f6d3cbd4fe64581c10\transformed\navigation-runtime-2.7.5\AndroidManifest.xml:17:1-22:12
@@ -89,8 +89,8 @@ MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0] C:\Use
 	android:name
 		ADDED from C:\Users\kshit\OneDrive\Desktop\Trial\app\src\main\AndroidManifest.xml:8:22-76
 application
-ADDED from C:\Users\kshit\OneDrive\Desktop\Trial\app\src\main\AndroidManifest.xml:10:5-92:19
-INJECTED from C:\Users\kshit\OneDrive\Desktop\Trial\app\src\main\AndroidManifest.xml:10:5-92:19
+ADDED from C:\Users\kshit\OneDrive\Desktop\Trial\app\src\main\AndroidManifest.xml:10:5-97:19
+INJECTED from C:\Users\kshit\OneDrive\Desktop\Trial\app\src\main\AndroidManifest.xml:10:5-97:19
 MERGED from [com.google.android.material:material:1.9.0] C:\Users\kshit\.gradle\caches\transforms-4\e7da04b325ba4afb59faa19d19fe364e\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.9.0] C:\Users\kshit\.gradle\caches\transforms-4\e7da04b325ba4afb59faa19d19fe364e\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\kshit\.gradle\caches\transforms-4\311cc69eff0f48193da784ece5cb8896\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -249,6 +249,16 @@ ADDED from C:\Users\kshit\OneDrive\Desktop\Trial\app\src\main\AndroidManifest.xm
 		ADDED from C:\Users\kshit\OneDrive\Desktop\Trial\app\src\main\AndroidManifest.xml:91:13-69
 	android:name
 		ADDED from C:\Users\kshit\OneDrive\Desktop\Trial\app\src\main\AndroidManifest.xml:89:13-50
+activity#com.example.studyplanner.QuizSubjectsActivity
+ADDED from C:\Users\kshit\OneDrive\Desktop\Trial\app\src\main\AndroidManifest.xml:92:9-96:45
+	android:label
+		ADDED from C:\Users\kshit\OneDrive\Desktop\Trial\app\src\main\AndroidManifest.xml:96:13-42
+	android:exported
+		ADDED from C:\Users\kshit\OneDrive\Desktop\Trial\app\src\main\AndroidManifest.xml:94:13-37
+	android:theme
+		ADDED from C:\Users\kshit\OneDrive\Desktop\Trial\app\src\main\AndroidManifest.xml:95:13-69
+	android:name
+		ADDED from C:\Users\kshit\OneDrive\Desktop\Trial\app\src\main\AndroidManifest.xml:93:13-49
 uses-sdk
 INJECTED from C:\Users\kshit\OneDrive\Desktop\Trial\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\kshit\OneDrive\Desktop\Trial\app\src\main\AndroidManifest.xml

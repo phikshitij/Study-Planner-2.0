@@ -156,9 +156,12 @@ public class MainActivity extends AppCompatActivity
 
             if (quizCard != null) {
                 quizCard.setOnClickListener(v -> {
-                    Intent intent = new Intent(MainActivity.this, QuizActivity.class);
+                    Intent intent = new Intent(MainActivity.this, QuizSubjectsActivity.class);
                     startActivity(intent);
+                    overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left);
                 });
+            } else {
+                Log.e(TAG, "Quiz card not found in layout");
             }
 
             if (videoResourcesCard != null) {

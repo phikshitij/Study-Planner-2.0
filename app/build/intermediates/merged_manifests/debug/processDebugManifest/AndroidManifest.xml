@@ -93,6 +93,11 @@
             android:name="com.example.studyplanner.SubjectVideosActivity"
             android:exported="false"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.example.studyplanner.QuizSubjectsActivity"
+            android:exported="false"
+            android:label="Quiz Subjects"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"

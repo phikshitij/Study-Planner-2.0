@@ -1,5 +1,11 @@
 R_DEF: Internal format may change without notice
 local
+anim item_animation_click
+anim item_animation_fall_down
+anim slide_in_left
+anim slide_in_right
+anim slide_out_left
+anim slide_out_right
 array performance_levels
 color black
 color colorAccent
@@ -8,10 +14,21 @@ color colorPrimaryDark
 color gray
 color ic_launcher_background
 color light_gray
+color quiz_data_warehouse
+color quiz_internet
+color quiz_networks
+color quiz_software_eng
+color quiz_theoretical
 color white
 dimen video_margin
 drawable app_logo
 drawable bot_message_background
+drawable card_ripple
+drawable gradient_blue
+drawable gradient_green
+drawable gradient_orange
+drawable gradient_purple
+drawable gradient_red
 drawable ic_back
 drawable ic_chatbot
 drawable ic_launcher
@@ -25,15 +42,22 @@ drawable ic_settings
 drawable ic_subjects
 drawable ic_timetable
 drawable message_background
+drawable toast_background
 drawable user_message_background
 id ageInput
 id bottomLayout
+id cardComputerNetworks
+id cardDataWarehouse
+id cardInternetProgramming
+id cardSoftwareEngineering
+id cardTheoretical
 id chatRecyclerView
 id chatToolbar
 id chatbotButton
 id cnCard
 id computerNetworksCard
 id courseInput
+id custom_toast_layout
 id dataWarehouseCard
 id drawer_layout
 id dwmCard
@@ -78,6 +102,7 @@ id theoreticalComputerScienceCard
 id timerText
 id timerTextView
 id timetableCard
+id toast_text
 id toolbar
 id videoContainer
 id videoResourcesCard
@@ -86,6 +111,7 @@ layout activity_login
 layout activity_main
 layout activity_profile
 layout activity_quiz
+layout activity_quiz_subjects
 layout activity_register
 layout activity_resources
 layout activity_settings
@@ -93,6 +119,7 @@ layout activity_subject_videos
 layout activity_timer
 layout activity_timetable
 layout activity_video_resources
+layout custom_toast
 layout item_chat_message
 layout item_message
 layout nav_header

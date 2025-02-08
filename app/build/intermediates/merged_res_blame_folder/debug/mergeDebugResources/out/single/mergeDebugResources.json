@@ -4,48 +4,24 @@
         "source": "com.example.studyplanner.app-main-48:/layout/activity_chat.xml"
     },
     {
-        "merged": "com.example.studyplanner.app-debug-46:/drawable_ic_subjects.xml.flat",
-        "source": "com.example.studyplanner.app-main-48:/drawable/ic_subjects.xml"
-    },
-    {
-        "merged": "com.example.studyplanner.app-debug-46:/drawable_ic_chatbot.xml.flat",
-        "source": "com.example.studyplanner.app-main-48:/drawable/ic_chatbot.xml"
-    },
-    {
-        "merged": "com.example.studyplanner.app-debug-46:/layout_activity_resources.xml.flat",
-        "source": "com.example.studyplanner.app-main-48:/layout/activity_resources.xml"
-    },
-    {
-        "merged": "com.example.studyplanner.app-debug-46:/layout_item_message.xml.flat",
-        "source": "com.example.studyplanner.app-main-48:/layout/item_message.xml"
-    },
-    {
         "merged": "com.example.studyplanner.app-debug-46:/layout_activity_video_resources.xml.flat",
         "source": "com.example.studyplanner.app-main-48:/layout/activity_video_resources.xml"
-    },
-    {
-        "merged": "com.example.studyplanner.app-debug-46:/xml_network_security_config.xml.flat",
-        "source": "com.example.studyplanner.app-main-48:/xml/network_security_config.xml"
     },
     {
         "merged": "com.example.studyplanner.app-debug-46:/layout_activity_timetable.xml.flat",
         "source": "com.example.studyplanner.app-main-48:/layout/activity_timetable.xml"
     },
     {
-        "merged": "com.example.studyplanner.app-debug-46:/layout_activity_subject_videos.xml.flat",
-        "source": "com.example.studyplanner.app-main-48:/layout/activity_subject_videos.xml"
-    },
-    {
-        "merged": "com.example.studyplanner.app-debug-46:/drawable_bot_message_background.xml.flat",
-        "source": "com.example.studyplanner.app-main-48:/drawable/bot_message_background.xml"
-    },
-    {
         "merged": "com.example.studyplanner.app-debug-46:/xml_backup_rules.xml.flat",
         "source": "com.example.studyplanner.app-main-48:/xml/backup_rules.xml"
     },
     {
-        "merged": "com.example.studyplanner.app-debug-46:/drawable_ic_launcher.xml.flat",
-        "source": "com.example.studyplanner.app-main-48:/drawable/ic_launcher.xml"
+        "merged": "com.example.studyplanner.app-debug-46:/drawable_gradient_purple.xml.flat",
+        "source": "com.example.studyplanner.app-main-48:/drawable/gradient_purple.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-debug-46:/layout_custom_toast.xml.flat",
+        "source": "com.example.studyplanner.app-main-48:/layout/custom_toast.xml"
     },
     {
         "merged": "com.example.studyplanner.app-debug-46:/drawable_ic_timetable.xml.flat",
@@ -56,20 +32,8 @@
         "source": "com.example.studyplanner.app-main-48:/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.example.studyplanner.app-debug-46:/mipmap_ic_launcher_round.xml.flat",
-        "source": "com.example.studyplanner.app-main-48:/mipmap/ic_launcher_round.xml"
-    },
-    {
         "merged": "com.example.studyplanner.app-debug-46:/mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "com.example.studyplanner.app-main-48:/mipmap-xxxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "com.example.studyplanner.app-debug-46:/drawable_ic_settings.xml.flat",
-        "source": "com.example.studyplanner.app-main-48:/drawable/ic_settings.xml"
-    },
-    {
-        "merged": "com.example.studyplanner.app-debug-46:/layout_nav_header.xml.flat",
-        "source": "com.example.studyplanner.app-main-48:/layout/nav_header.xml"
     },
     {
         "merged": "com.example.studyplanner.app-debug-46:/drawable_message_background.xml.flat",
@@ -88,10 +52,6 @@
         "source": "com.example.studyplanner.app-main-48:/layout/item_chat_message.xml"
     },
     {
-        "merged": "com.example.studyplanner.app-debug-46:/menu_drawer_menu.xml.flat",
-        "source": "com.example.studyplanner.app-main-48:/menu/drawer_menu.xml"
-    },
-    {
         "merged": "com.example.studyplanner.app-debug-46:/layout_activity_main.xml.flat",
         "source": "com.example.studyplanner.app-main-48:/layout/activity_main.xml"
     },
@@ -102,10 +62,6 @@
     {
         "merged": "com.example.studyplanner.app-debug-46:/layout_activity_login.xml.flat",
         "source": "com.example.studyplanner.app-main-48:/layout/activity_login.xml"
-    },
-    {
-        "merged": "com.example.studyplanner.app-debug-46:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "com.example.studyplanner.app-main-48:/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
         "merged": "com.example.studyplanner.app-debug-46:/drawable_ic_notification.xml.flat",
@@ -124,32 +80,36 @@
         "source": "com.example.studyplanner.app-main-48:/drawable/user_message_background.xml"
     },
     {
-        "merged": "com.example.studyplanner.app-debug-46:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "com.example.studyplanner.app-main-48:/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "com.example.studyplanner.app-debug-46:/drawable_gradient_blue.xml.flat",
+        "source": "com.example.studyplanner.app-main-48:/drawable/gradient_blue.xml"
     },
     {
-        "merged": "com.example.studyplanner.app-debug-46:/layout_activity_timer.xml.flat",
-        "source": "com.example.studyplanner.app-main-48:/layout/activity_timer.xml"
+        "merged": "com.example.studyplanner.app-debug-46:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.studyplanner.app-main-48:/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
         "merged": "com.example.studyplanner.app-debug-46:/drawable_ic_profile.xml.flat",
         "source": "com.example.studyplanner.app-main-48:/drawable/ic_profile.xml"
     },
     {
-        "merged": "com.example.studyplanner.app-debug-46:/drawable_ic_logout.xml.flat",
-        "source": "com.example.studyplanner.app-main-48:/drawable/ic_logout.xml"
+        "merged": "com.example.studyplanner.app-debug-46:/drawable_gradient_red.xml.flat",
+        "source": "com.example.studyplanner.app-main-48:/drawable/gradient_red.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-debug-46:/drawable_card_ripple.xml.flat",
+        "source": "com.example.studyplanner.app-main-48:/drawable/card_ripple.xml"
     },
     {
         "merged": "com.example.studyplanner.app-debug-46:/drawable_ic_resources.xml.flat",
         "source": "com.example.studyplanner.app-main-48:/drawable/ic_resources.xml"
     },
     {
-        "merged": "com.example.studyplanner.app-debug-46:/drawable_app_logo.xml.flat",
-        "source": "com.example.studyplanner.app-main-48:/drawable/app_logo.xml"
+        "merged": "com.example.studyplanner.app-debug-46:/drawable_gradient_green.xml.flat",
+        "source": "com.example.studyplanner.app-main-48:/drawable/gradient_green.xml"
     },
     {
-        "merged": "com.example.studyplanner.app-debug-46:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "com.example.studyplanner.app-main-48:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "com.example.studyplanner.app-debug-46:/anim_slide_in_right.xml.flat",
+        "source": "com.example.studyplanner.app-main-48:/anim/slide_in_right.xml"
     },
     {
         "merged": "com.example.studyplanner.app-debug-46:/drawable_ic_back.xml.flat",
@@ -160,15 +120,115 @@
         "source": "com.example.studyplanner.app-main-48:/layout/activity_quiz.xml"
     },
     {
-        "merged": "com.example.studyplanner.app-debug-46:/drawable_ic_quiz.xml.flat",
-        "source": "com.example.studyplanner.app-main-48:/drawable/ic_quiz.xml"
-    },
-    {
         "merged": "com.example.studyplanner.app-debug-46:/mipmap-xhdpi_ic_launcher.png.flat",
         "source": "com.example.studyplanner.app-main-48:/mipmap-xhdpi/ic_launcher.png"
     },
     {
+        "merged": "com.example.studyplanner.app-debug-46:/drawable_ic_subjects.xml.flat",
+        "source": "com.example.studyplanner.app-main-48:/drawable/ic_subjects.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-debug-46:/drawable_ic_chatbot.xml.flat",
+        "source": "com.example.studyplanner.app-main-48:/drawable/ic_chatbot.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-debug-46:/layout_activity_resources.xml.flat",
+        "source": "com.example.studyplanner.app-main-48:/layout/activity_resources.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-debug-46:/layout_item_message.xml.flat",
+        "source": "com.example.studyplanner.app-main-48:/layout/item_message.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-debug-46:/xml_network_security_config.xml.flat",
+        "source": "com.example.studyplanner.app-main-48:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-debug-46:/anim_item_animation_fall_down.xml.flat",
+        "source": "com.example.studyplanner.app-main-48:/anim/item_animation_fall_down.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-debug-46:/layout_activity_subject_videos.xml.flat",
+        "source": "com.example.studyplanner.app-main-48:/layout/activity_subject_videos.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-debug-46:/drawable_bot_message_background.xml.flat",
+        "source": "com.example.studyplanner.app-main-48:/drawable/bot_message_background.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-debug-46:/drawable_ic_launcher.xml.flat",
+        "source": "com.example.studyplanner.app-main-48:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-debug-46:/mipmap_ic_launcher_round.xml.flat",
+        "source": "com.example.studyplanner.app-main-48:/mipmap/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-debug-46:/drawable_ic_settings.xml.flat",
+        "source": "com.example.studyplanner.app-main-48:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-debug-46:/layout_nav_header.xml.flat",
+        "source": "com.example.studyplanner.app-main-48:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-debug-46:/anim_slide_in_left.xml.flat",
+        "source": "com.example.studyplanner.app-main-48:/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-debug-46:/layout_activity_quiz_subjects.xml.flat",
+        "source": "com.example.studyplanner.app-main-48:/layout/activity_quiz_subjects.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-debug-46:/menu_drawer_menu.xml.flat",
+        "source": "com.example.studyplanner.app-main-48:/menu/drawer_menu.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-debug-46:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.studyplanner.app-main-48:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.studyplanner.app-debug-46:/anim_slide_out_right.xml.flat",
+        "source": "com.example.studyplanner.app-main-48:/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-debug-46:/drawable_toast_background.xml.flat",
+        "source": "com.example.studyplanner.app-main-48:/drawable/toast_background.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-debug-46:/anim_item_animation_click.xml.flat",
+        "source": "com.example.studyplanner.app-main-48:/anim/item_animation_click.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-debug-46:/anim_slide_out_left.xml.flat",
+        "source": "com.example.studyplanner.app-main-48:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-debug-46:/layout_activity_timer.xml.flat",
+        "source": "com.example.studyplanner.app-main-48:/layout/activity_timer.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-debug-46:/drawable_ic_logout.xml.flat",
+        "source": "com.example.studyplanner.app-main-48:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-debug-46:/drawable_app_logo.xml.flat",
+        "source": "com.example.studyplanner.app-main-48:/drawable/app_logo.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-debug-46:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.studyplanner.app-main-48:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.studyplanner.app-debug-46:/drawable_ic_quiz.xml.flat",
+        "source": "com.example.studyplanner.app-main-48:/drawable/ic_quiz.xml"
+    },
+    {
         "merged": "com.example.studyplanner.app-debug-46:/drawable_ic_launcher_foreground.xml.flat",
         "source": "com.example.studyplanner.app-main-48:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.studyplanner.app-debug-46:/drawable_gradient_orange.xml.flat",
+        "source": "com.example.studyplanner.app-main-48:/drawable/gradient_orange.xml"
     }
 ]
