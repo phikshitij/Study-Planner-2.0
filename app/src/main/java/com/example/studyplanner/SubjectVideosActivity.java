@@ -59,7 +59,7 @@ public class SubjectVideosActivity extends AppCompatActivity {
 
                     break;
                 case "Computer Networks":
-                    addVideo("b6U487URsGAs");
+                    addVideo("3QhU9jd03a0");
 
                     break;
                 case "Theoretical Computer Science":
@@ -87,9 +87,20 @@ public class SubjectVideosActivity extends AppCompatActivity {
     }
 
     private void addVideo(String videoId) {
+        if (videoId == null || videoId.isEmpty()) {
+            Log.e(TAG, "Invalid video ID provided");
+            Toast.makeText(this, "Error: Invalid video ID", Toast.LENGTH_SHORT).show();
+            return;
+        }
+
         try {
             // Create YouTube Player View
             YouTubePlayerView youTubePlayerView = new YouTubePlayerView(this);
+            if (youTubePlayerView == null) {
+                Log.e(TAG, "Failed to create YouTubePlayerView");
+                return;
+            }
+            
             getLifecycle().addObserver(youTubePlayerView);
 
             // Calculate video height (16:9 aspect ratio)
@@ -115,17 +126,35 @@ public class SubjectVideosActivity extends AppCompatActivity {
                 @Override
                 public void onReady(@NonNull YouTubePlayer youTubePlayer) {
                     try {
-                        youTubePlayer.cueVideo(videoId, 0);
+                        if (youTubePlayer != null) {
+                            youTubePlayer.cueVideo(videoId, 0);
+                        } else {
+                            Log.e(TAG, "YouTubePlayer is null");
+                            Toast.makeText(SubjectVideosActivity.this, 
+                                         "Error initializing video player", Toast.LENGTH_SHORT).show();
+                        }
                     } catch (Exception e) {
                         Log.e(TAG, "Error loading video: " + e.getMessage());
                         Toast.makeText(SubjectVideosActivity.this, 
                                      "Error loading video", Toast.LENGTH_SHORT).show();
                     }
                 }
+
+                @Override
+                public void onError(@NonNull YouTubePlayer youTubePlayer, @NonNull com.pierfrancescosoffritti.androidyoutubeplayer.core.player.PlayerConstants.PlayerError error) {
+                    Log.e(TAG, "YouTube player error: " + error.name());
+                    Toast.makeText(SubjectVideosActivity.this, 
+                                 "Error playing video: " + error.name(), Toast.LENGTH_SHORT).show();
+                }
             });
 
             // Add to container
-            videoContainer.addView(youTubePlayerView);
+            if (videoContainer != null) {
+                videoContainer.addView(youTubePlayerView);
+            } else {
+                Log.e(TAG, "Video container is null");
+                Toast.makeText(this, "Error: Video container not found", Toast.LENGTH_SHORT).show();
+            }
 
         } catch (Exception e) {
             Log.e(TAG, "Error adding video: " + e.getMessage());
